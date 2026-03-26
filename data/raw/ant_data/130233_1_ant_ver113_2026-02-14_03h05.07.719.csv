@@ -1,0 +1,11 @@
+﻿location,PreExperiment.started,PreExperiment.stopped,date,expName,psychopyVersion,OS,frameRate,id,participant,PracInstruc.started,PracInstruc.stopped,PracInstruct2.started,PracInstruct2.stopped,fixation.started,fixation.stopped,fixDuration,trial.started,trial.stopped,resp.keys,resp.corr,feedback.started,feedback.stopped,pracLoop.thisRepN,pracLoop.thisTrialN,pracLoop.thisN,pracLoop.thisIndex,pracLoop.ran,cue,tar,pos_loc,corrAns,targOrientation,resp.rt,resp.duration
+1,0.0004,19.4055,2026-02-14_03h05.07.719,ant_ver113,2025.2.3,MacIntel,59.52380952,130233,130233,,,,,,,,,,,,,,,,,,,,,,,,,
+1,,,2026-02-14_03h05.07.719,ant_ver113,2025.2.3,MacIntel,59.52380952,130233,130233,19.4058,30.9037,,,,,,,,,,,,,,,,,,,,,,,
+1,,,2026-02-14_03h05.07.719,ant_ver113,2025.2.3,MacIntel,59.52380952,130233,130233,,,30.904,41.2547,,,,,,,,,,,,,,,,,,,,,
+1,,,2026-02-14_03h05.07.719,ant_ver113,2025.2.3,MacIntel,59.52380952,130233,130233,,,,,41.279,42.2713,1,42.2732,46.2713,,0,46.2717,47.2713,0,0,0,18,1,stim/blank.png,stim/congRight.png,-1,right,0,,
+1,,,2026-02-14_03h05.07.719,ant_ver113,2025.2.3,MacIntel,59.52380952,130233,130233,,,,,47.2724,47.821,0.55,47.8219,51.82,right,0,51.8201,52.8206,0,1,1,21,1,stim/centre.png,stim/incongLeft.png,-1,left,0,0.4312,
+1,,,2026-02-14_03h05.07.719,ant_ver113,2025.2.3,MacIntel,59.52380952,130233,130233,,,,,52.8215,53.2699,0.45,53.2709,57.2698,,0,57.2699,58.2708,0,2,2,20,1,stim/blank.png,stim/incongLeft.png,1,left,0,,
+1,,,2026-02-14_03h05.07.719,ant_ver113,2025.2.3,MacIntel,59.52380952,130233,130233,,,,,58.2713,59.4708,1.2,59.4718,63.47,right,0,63.4701,64.4708,0,3,3,10,1,stim/lower.png,stim/incongLeft.png,-1,left,0,1.4835,
+1,,,2026-02-14_03h05.07.719,ant_ver113,2025.2.3,MacIntel,59.52380952,130233,130233,,,,,64.4718,65.0207,0.55,65.0219,69.0207,right,0,69.0209,70.0207,0,4,4,1,1,stim/both.png,stim/incongLeft.png,1,left,0,1.1186,
+1,,,2026-02-14_03h05.07.719,ant_ver113,2025.2.3,MacIntel,59.52380952,130233,130233,,,,,70.0214,71.0207,1,71.0218,75.021,,0,75.0212,76.0207,0,5,5,3,1,stim/both.png,stim/incongRight.png,-1,right,0,,
+1,,,2026-02-14_03h05.07.719,ant_ver113,2025.2.3,MacIntel,59.52380952,130233,130233,,,,,76.0214,77.2705,1.25,77.2711,83.3656,left,0,83.3657,83.3657,0,6,6,2,1,stim/centre.png,stim/congRight.png,1,right,0,0.2008,

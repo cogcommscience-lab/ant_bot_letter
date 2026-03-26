@@ -1,0 +1,6 @@
+﻿location,PreExperiment.started,PreExperiment.stopped,date,expName,psychopyVersion,OS,frameRate,id,participant,PracInstruc.started,PracInstruc.stopped,PracInstruct2.started,PracInstruct2.stopped,fixation.started,fixation.stopped,fixDuration,trial.started,trial.stopped,resp.keys,resp.corr,feedback.started,feedback.stopped,pracLoop.thisRepN,pracLoop.thisTrialN,pracLoop.thisN,pracLoop.thisIndex,pracLoop.ran,cue,tar,pos_loc,corrAns,targOrientation
+1,0.0002,20.8024,2026-03-13_12h06.39.373,ant_ver113,2025.2.3,Win32,238.0952381,120228,120228,,,,,,,,,,,,,,,,,,,,,,,
+1,,,2026-03-13_12h06.39.373,ant_ver113,2025.2.3,Win32,238.0952381,120228,120228,20.8025,31.3762,,,,,,,,,,,,,,,,,,,,,
+1,,,2026-03-13_12h06.39.373,ant_ver113,2025.2.3,Win32,238.0952381,120228,120228,,,31.3763,45.2315,,,,,,,,,,,,,,,,,,,
+1,,,2026-03-13_12h06.39.373,ant_ver113,2025.2.3,Win32,238.0952381,120228,120228,,,,,45.2418,45.991,0.75,45.9916,49.9887,,0,49.9887,50.9921,0,0,0,3,1,stim/both.png,stim/incongRight.png,-1,right,0
+1,,,2026-03-13_12h06.39.373,ant_ver113,2025.2.3,Win32,238.0952381,120228,120228,,,,,50.9925,52.2402,1.25,52.2406,56.2394,,0,56.2394,57.2413,0,1,1,21,1,stim/centre.png,stim/incongLeft.png,-1,left,0

@@ -1,0 +1,9 @@
+﻿location,PreExperiment.started,PreExperiment.stopped,date,expName,psychopyVersion,OS,frameRate,id,participant,PracInstruc.started,PracInstruc.stopped,PracInstruct2.started,PracInstruct2.stopped,fixation.started,fixation.stopped,fixDuration,trial.started,trial.stopped,resp.keys,resp.corr,resp.rt,resp.duration,feedback.started,feedback.stopped,pracLoop.thisRepN,pracLoop.thisTrialN,pracLoop.thisN,pracLoop.thisIndex,pracLoop.ran,cue,tar,pos_loc,corrAns,targOrientation,pracLoop.order
+1,0.0003,10.5949,2026-01-30_12h49.53.752,ant_ver113,2025.2.3,MacIntel,119.047619,91122,91122,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,,,2026-01-30_12h49.53.752,ant_ver113,2025.2.3,MacIntel,119.047619,91122,91122,10.5951,20.9612,,,,,,,,,,,,,,,,,,,,,,,,
+1,,,2026-01-30_12h49.53.752,ant_ver113,2025.2.3,MacIntel,119.047619,91122,91122,,,20.9612,31.277,,,,,,,,,,,,,,,,,,,,,,
+1,,,2026-01-30_12h49.53.752,ant_ver113,2025.2.3,MacIntel,119.047619,91122,91122,,,,,31.2873,31.9862,0.7,31.9873,35.9866,left,1,0.4532,,35.9868,36.9863,0,0,0,15,1,stim/blank.png,stim/congLeft.png,-1,left,0,
+1,,,2026-01-30_12h49.53.752,ant_ver113,2025.2.3,MacIntel,119.047619,91122,91122,,,,,36.9867,37.6363,0.65,37.6366,41.6356,right,1,0.416,,41.6361,42.6362,0,1,1,18,1,stim/blank.png,stim/congRight.png,-1,right,0,
+1,,,2026-01-30_12h49.53.752,ant_ver113,2025.2.3,MacIntel,119.047619,91122,91122,,,,,42.6365,43.2863,0.65,43.2869,47.2862,right,0,0.5194,,47.2867,48.2864,0,2,2,1,1,stim/both.png,stim/incongLeft.png,1,left,0,
+1,,,2026-01-30_12h49.53.752,ant_ver113,2025.2.3,MacIntel,119.047619,91122,91122,,,,,48.287,49.0865,0.8,49.0873,53.0861,left,1,0.5019,,53.0865,54.0862,0,3,3,17,1,stim/both.png,stim/neutralLeft.png,-1,left,0,
+1,,,2026-01-30_12h49.53.752,ant_ver113,2025.2.3,MacIntel,119.047619,91122,91122,,,,,54.0866,54.6363,0.55,54.6373,,,,,,,,0,4,4,14,1,stim/centre.png,stim/neutralLeft.png,-1,left,0,23

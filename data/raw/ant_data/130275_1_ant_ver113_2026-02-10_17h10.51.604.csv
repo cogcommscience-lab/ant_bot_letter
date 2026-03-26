@@ -1,0 +1,16 @@
+﻿location,PreExperiment.started,PreExperiment.stopped,date,expName,psychopyVersion,OS,frameRate,id,participant,PracInstruc.started,PracInstruc.stopped,PracInstruct2.started,PracInstruct2.stopped,fixation.started,fixation.stopped,fixDuration,trial.started,trial.stopped,resp.keys,resp.corr,resp.rt,resp.duration,feedback.started,feedback.stopped,pracLoop.thisRepN,pracLoop.thisTrialN,pracLoop.thisN,pracLoop.thisIndex,pracLoop.ran,cue,tar,pos_loc,corrAns,targOrientation,pracLoop.order
+1,0.0001,15.9705,2026-02-10_17h10.51.604,ant_ver113,2025.2.3,MacIntel,29.94011976,130275,130275,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,,,2026-02-10_17h10.51.604,ant_ver113,2025.2.3,MacIntel,29.94011976,130275,130275,15.971,26.3383,,,,,,,,,,,,,,,,,,,,,,,,
+1,,,2026-02-10_17h10.51.604,ant_ver113,2025.2.3,MacIntel,29.94011976,130275,130275,,,26.3385,37.2214,,,,,,,,,,,,,,,,,,,,,,
+1,,,2026-02-10_17h10.51.604,ant_ver113,2025.2.3,MacIntel,29.94011976,130275,130275,,,,,37.2461,38.6549,1.4,38.6569,42.6548,left,1,1.0135,,42.6553,43.6547,0,0,0,4,1,stim/centre.png,stim/congLeft.png,1,left,0,
+1,,,2026-02-10_17h10.51.604,ant_ver113,2025.2.3,MacIntel,29.94011976,130275,130275,,,,,43.6557,44.8878,1.25,44.8888,48.888,right,1,0.4273,,48.8895,49.888,0,1,1,0,1,stim/centre.png,stim/congRight.png,-1,right,0,
+1,,,2026-02-10_17h10.51.604,ant_ver113,2025.2.3,MacIntel,29.94011976,130275,130275,,,,,49.8889,51.3881,1.5,51.3891,55.3881,right,1,0.4511,,55.3894,56.3881,0,2,2,18,1,stim/blank.png,stim/congRight.png,-1,right,0,
+1,,,2026-02-10_17h10.51.604,ant_ver113,2025.2.3,MacIntel,29.94011976,130275,130275,,,,,56.3889,56.9882,0.6,56.9892,60.9885,left,1,0.4515,,60.9895,61.9873,0,3,3,12,1,stim/lower.png,stim/congLeft.png,-1,left,0,
+1,,,2026-02-10_17h10.51.604,ant_ver113,2025.2.3,MacIntel,29.94011976,130275,130275,,,,,61.988,62.6217,0.65,62.6228,66.6218,right,0,0.6148,,66.623,67.6218,0,4,4,22,1,stim/centre.png,stim/neutralLeft.png,1,left,0,
+1,,,2026-02-10_17h10.51.604,ant_ver113,2025.2.3,MacIntel,29.94011976,130275,130275,,,,,67.6225,69.0219,1.4,69.0229,73.022,right,0,0.4646,,73.0222,74.022,0,5,5,1,1,stim/both.png,stim/incongLeft.png,1,left,0,
+1,,,2026-02-10_17h10.51.604,ant_ver113,2025.2.3,MacIntel,29.94011976,130275,130275,,,,,74.0228,74.8553,0.85,74.8564,78.8549,left,0,0.4983,,78.855,79.8551,0,6,6,7,1,stim/blank.png,stim/incongRight.png,-1,right,0,
+1,,,2026-02-10_17h10.51.604,ant_ver113,2025.2.3,MacIntel,29.94011976,130275,130275,,,,,79.8559,80.7555,0.9,80.7563,84.7555,right,1,0.6462,,84.757,85.7555,0,7,7,11,1,stim/upper.png,stim/incongRight.png,1,right,0,
+1,,,2026-02-10_17h10.51.604,ant_ver113,2025.2.3,MacIntel,29.94011976,130275,130275,,,,,85.7562,86.4555,0.7,86.4564,90.455,right,1,0.5829,,90.4565,91.4555,0,8,8,13,1,stim/both.png,stim/congRight.png,-1,right,0,
+1,,,2026-02-10_17h10.51.604,ant_ver113,2025.2.3,MacIntel,29.94011976,130275,130275,,,,,91.4563,92.489,1.05,92.4899,96.4891,left,1,0.6181,,96.4903,97.4893,0,9,9,6,1,stim/blank.png,stim/congLeft.png,1,left,0,
+1,,,2026-02-10_17h10.51.604,ant_ver113,2025.2.3,MacIntel,29.94011976,130275,130275,,,,,97.49,98.3222,0.85,98.323,102.3226,left,1,0.5614,,102.3238,103.3227,0,10,10,9,1,stim/centre.png,stim/congLeft.png,-1,left,0,
+1,,,2026-02-10_17h10.51.604,ant_ver113,2025.2.3,MacIntel,29.94011976,130275,130275,,,,,103.3235,,,,,,,,,,,0,11,11,20,1,stim/blank.png,stim/incongLeft.png,1,left,0,23

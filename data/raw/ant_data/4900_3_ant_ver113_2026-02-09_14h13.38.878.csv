@@ -1,0 +1,12 @@
+﻿location,PreExperiment.started,PreExperiment.stopped,date,expName,psychopyVersion,OS,frameRate,id,participant,PracInstruc.started,PracInstruc.stopped,PracInstruct2.started,PracInstruct2.stopped,fixation.started,fixation.stopped,fixDuration,trial.started,trial.stopped,resp.keys,resp.corr,feedback.started,feedback.stopped,pracLoop.thisRepN,pracLoop.thisTrialN,pracLoop.thisN,pracLoop.thisIndex,pracLoop.ran,cue,tar,pos_loc,corrAns,targOrientation,resp.rt,resp.duration,pracLoop.order
+3,0.0006,14.6886,2026-02-09_14h13.38.878,ant_ver113,2025.2.3,Win32,60.24096386,4900,4900,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,,,2026-02-09_14h13.38.878,ant_ver113,2025.2.3,Win32,60.24096386,4900,4900,14.689,40.2259,,,,,,,,,,,,,,,,,,,,,,,,
+3,,,2026-02-09_14h13.38.878,ant_ver113,2025.2.3,Win32,60.24096386,4900,4900,,,40.2262,85.8397,,,,,,,,,,,,,,,,,,,,,,
+3,,,2026-02-09_14h13.38.878,ant_ver113,2025.2.3,Win32,60.24096386,4900,4900,,,,,85.8901,86.5894,0.7,86.5916,90.5895,,0,90.5899,91.5888,0,0,0,18,1,stim/blank.png,stim/congRight.png,-1,right,0,,,
+3,,,2026-02-09_14h13.38.878,ant_ver113,2025.2.3,Win32,60.24096386,4900,4900,,,,,91.5906,92.4875,0.9,92.4896,96.4879,,0,96.4882,97.4879,0,1,1,9,1,stim/centre.png,stim/congLeft.png,-1,left,0,,,
+3,,,2026-02-09_14h13.38.878,ant_ver113,2025.2.3,Win32,60.24096386,4900,4900,,,,,97.4895,99.0375,1.55,99.0395,103.0371,right,0,103.0373,104.0403,0,2,2,15,1,stim/blank.png,stim/congLeft.png,-1,left,0,0.6517,,
+3,,,2026-02-09_14h13.38.878,ant_ver113,2025.2.3,Win32,60.24096386,4900,4900,,,,,104.0411,104.6897,0.65,104.6907,108.6873,,0,108.688,109.6868,0,3,3,2,1,stim/centre.png,stim/congRight.png,1,right,0,,,
+3,,,2026-02-09_14h13.38.878,ant_ver113,2025.2.3,Win32,60.24096386,4900,4900,,,,,109.6881,110.1395,0.45,110.1401,114.1365,,0,114.1367,115.1365,0,4,4,11,1,stim/upper.png,stim/incongRight.png,1,right,0,,,
+3,,,2026-02-09_14h13.38.878,ant_ver113,2025.2.3,Win32,60.24096386,4900,4900,,,,,115.138,116.6869,1.55,116.6879,120.6866,,0,120.6869,121.686,0,5,5,14,1,stim/centre.png,stim/neutralLeft.png,-1,left,0,,,
+3,,,2026-02-09_14h13.38.878,ant_ver113,2025.2.3,Win32,60.24096386,4900,4900,,,,,121.6874,123.1858,1.5,123.1877,127.186,left,1,127.1892,128.1857,0,6,6,21,1,stim/centre.png,stim/incongLeft.png,-1,left,0,0.6338,,
+3,,,2026-02-09_14h13.38.878,ant_ver113,2025.2.3,Win32,60.24096386,4900,4900,,,,,128.1869,,,,,,,,,0,7,7,8,1,stim/upper.png,stim/neutralLeft.png,1,left,0,,,23

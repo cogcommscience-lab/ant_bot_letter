@@ -1,0 +1,3 @@
+﻿location,PreExperiment.started,PreExperiment.stopped,date,expName,psychopyVersion,OS,frameRate,id,participant,PracInstruc.started,PracInstruc.stopped
+1,0.0004,10.1631,2026-03-11_22h20.20.751,ant_ver113,2025.2.3,MacIntel,59.52380952,130520,130520,,
+1,,,2026-03-11_22h20.20.751,ant_ver113,2025.2.3,MacIntel,59.52380952,130520,130520,10.1634,39.8472

@@ -1,0 +1,6 @@
+﻿location,PreExperiment.started,PreExperiment.stopped,date,expName,psychopyVersion,OS,frameRate,id,participant,PracInstruc.started,PracInstruc.stopped,PracInstruct2.started,PracInstruct2.stopped,fixation.started,fixation.stopped,fixDuration,trial.started,trial.stopped,resp.keys,resp.corr,feedback.started,feedback.stopped,pracLoop.thisRepN,pracLoop.thisTrialN,pracLoop.thisN,pracLoop.thisIndex,pracLoop.ran,cue,tar,pos_loc,corrAns,targOrientation
+1,0,13.8819,2026-02-09_14h08.02.394,ant_ver113,2025.2.3,MacIntel,29.6735905,122400,122400,,,,,,,,,,,,,,,,,,,,,,,
+1,,,2026-02-09_14h08.02.394,ant_ver113,2025.2.3,MacIntel,29.6735905,122400,122400,13.8821,37.9486,,,,,,,,,,,,,,,,,,,,,
+1,,,2026-02-09_14h08.02.394,ant_ver113,2025.2.3,MacIntel,29.6735905,122400,122400,,,37.9487,52.5489,,,,,,,,,,,,,,,,,,,
+1,,,2026-02-09_14h08.02.394,ant_ver113,2025.2.3,MacIntel,29.6735905,122400,122400,,,,,52.5708,53.3155,0.75,53.3166,57.3156,,0,57.316,58.3156,0,0,0,1,1,stim/both.png,stim/incongLeft.png,1,left,0
+1,,,2026-02-09_14h08.02.394,ant_ver113,2025.2.3,MacIntel,29.6735905,122400,122400,,,,,58.3169,58.9153,0.6,58.9165,62.9152,,0,62.9153,63.9149,0,1,1,13,1,stim/both.png,stim/congRight.png,-1,right,0
