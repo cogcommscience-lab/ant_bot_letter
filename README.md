@@ -1,4 +1,4 @@
-# Behavioral Bots Are Feasible but Constrained: Toward Task-Specific Detection Benchmarks
+# Behavioral Bots Are Feasible but Constrained
 
 Data and code for a PNAS Letter to the Editor responding to Westwood (2025), contributing to the debate about whether AI bots threaten the integrity of online behavioral research.
 
