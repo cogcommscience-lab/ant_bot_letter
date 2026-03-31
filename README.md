@@ -4,8 +4,6 @@ Data and code for a PNAS Letter to the Editor responding to Westwood (2025), con
 
 **Authors:** Richard Huskey, Ziyu Zhao, Jacob T. Fisher, Douglas A. Parry
 
-**Manuscript:** `huskey_zhao_fisher_parry_pnas_letter_bots.docx`
-
 ---
 
 ## Repository Structure
