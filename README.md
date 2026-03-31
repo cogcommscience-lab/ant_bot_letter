@@ -13,7 +13,6 @@ Data and code for a PNAS Letter to the Editor responding to Westwood (2025), con
 ```
 bot_or_not_letter/
 ├── README.md                                       (this file)
-├── huskey_zhao_fisher_parry_pnas_letter_bots.docx  (manuscript)
 ├── data/
 │   ├── README.md                                   (data documentation)
 │   └── raw/
@@ -24,9 +23,7 @@ bot_or_not_letter/
 │       └── v7_3_data.csv                           (bot v7.3 single-run ANT output, 288 trials)
 │
 └── output/
-    ├── figures_for_letter.py                       (figure generation and statistics)
-    ├── figure1_bot_approximates_human.jpg          (Figure 1, 300 dpi)
-    └── figure2_detectable_artifacts.jpg            (Figure 2, 300 dpi)
+    └─ figures_for_letter.py                       (figure generation and statistics)
 ```
 
 ---
